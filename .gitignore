@@ -13,3 +13,5 @@ data/processed/*.csv
 # Keep original datasets out of GitHub if required by dataset terms
 data/raw/*.csv
 data/processed/*.csv
+data/raw/*.csv
+data/processed/*.csv
