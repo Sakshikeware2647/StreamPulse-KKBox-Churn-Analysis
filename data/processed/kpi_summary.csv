@@ -1,0 +1,17 @@
+metric,value
+Raw label rows,970960
+Labeled users retained,970960
+Churn rate (%),8.99
+Retention rate (%),91.01
+Latest observed activity date,2017-03-31
+DAU,416825
+MAU (latest observed calendar month),754551
+DAU/MAU stickiness (%),55.24
+ARPU proxy (dataset currency),297.17
+LTV proxy (dataset currency),3303.97
+NRR,Not computed: no reconciled opening/closing recurring-revenue bridge
+Raw user-log rows scanned,18396362
+Duplicate rows removed within chunks,0
+Invalid negative duration rows flagged,0
+Member rows in source,6769473
+Transaction rows in source,1431009

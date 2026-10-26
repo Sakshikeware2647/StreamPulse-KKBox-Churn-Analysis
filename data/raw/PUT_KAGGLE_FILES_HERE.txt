@@ -1,0 +1,1 @@
+Place the Kaggle CSVs here: train_v2.csv (or train.csv), user_logs_v2.csv (or user_logs.csv), transactions_v2.csv (or transactions.csv), members_v3.csv (or members.csv). Download from https://www.kaggle.com/competitions/kkbox-churn-prediction-challenge/data after signing in and accepting the competition rules.

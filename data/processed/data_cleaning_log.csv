@@ -1,0 +1,9 @@
+defect,detection,action
+Missing/invalid churn label,"is_churn null or outside {0,1}",Excluded from labeled cohort
+Duplicate activity logs,Repeated msno + date within a chunk,Keep last within chunk; cross-chunk duplicates may remain
+Invalid listening duration,total_secs < 0 or > 86400,Set to missing
+Invalid play counters,Counter < 0 or > 10000,Set to missing
+Implausible age,bd outside 10–100,Set to missing
+Missing activity,No matched user log,Kept as zero observed activity; not proof of no real use
+Support tickets,Not present in source,Not fabricated; excluded from health score
+Subscription tier,Basic/Pro/Enterprise not present,Payment-duration band is only a proxy
